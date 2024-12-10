@@ -1,7 +1,13 @@
+.large-menubar li:hover{
+    color:#B68C5A;
+}
 .banner-container{
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)),url('../images/banner.png'); 
 }
 .font-garamond{
     font-family: "EB Garamond", serif;
 
+}
+.slide1-container{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.2)),url('../images/banner.png');
 }
